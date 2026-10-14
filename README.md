@@ -2,6 +2,8 @@
 
 Навчальний репозиторій для першого заняття з Git і GitHub. Тут можна побачити історію змін, створити гілку, запропонувати зміну та розв'язати конфлікт.
 
+Відкрити на GitHub: https://github.com/YuraPas/coderefinery-nltu-recipes-ua
+
 ## Рецепти
 
 - [Вівсяна каша](breakfast/porridge.md)
